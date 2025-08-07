@@ -15,7 +15,7 @@
     "@sailshq/lodash": "^3.10.6"
   },
   "devDependencies": {
-    "eslint": "5.16.0"
+    "eslint": "9.32.0"
   },
   "scripts": {
     "start": "NODE_ENV=production node app.js",
